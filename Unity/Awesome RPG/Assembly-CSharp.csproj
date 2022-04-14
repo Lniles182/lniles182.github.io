@@ -53,9 +53,11 @@
     <UnityVersion>2020.3.17f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets/Scripts/StartBattle.cs" />
+    <Compile Include="Assets/Scripts/Unit_Stats.cs" />
     <Compile Include="Assets/Scripts/Change_Scene.cs" />
-    <Compile Include="Assets/StartBattle.cs" />
-    <Compile Include="Assets/Unit_Stats.cs" />
+    <Compile Include="Assets/Scripts/PlayerMovement.cs" />
+    <Compile Include="Assets/SpawnEnemy.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
