@@ -1,10 +1,10 @@
 ﻿<Properties StartupConfiguration="{C886AF67-4370-8464-7470-316E90F1C575}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerMovement.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CreateEnemyMenu.cs">
     <Files>
       <File FileName="Assets/Scripts/UnitStats.cs" Line="5" Column="18" />
       <File FileName="Assets/Scripts/Startbattle.cs" />
-      <File FileName="Assets/Scripts/KillEnemy.cs" Line="11" Column="6" />
-      <File FileName="Assets/Scripts/CreateEnemyMenu.cs" />
+      <File FileName="Assets/Scripts/KillEnemy.cs" />
+      <File FileName="Assets/Scripts/CreateEnemyMenu.cs" Line="35" Column="15" />
       <File FileName="Assets/Scripts/ChangeScene.cs" />
       <File FileName="Assets/Scripts/PlayerMovement.cs" Line="60" Column="1" />
       <File FileName="Assets/Scripts/SpawnEnemy.cs" />
@@ -12,10 +12,10 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="77e3848d-5606-466b-a4ec-3b7eb4c7fe64" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7bc212b7-7c35-4216-a08e-ffc319ccc1e4" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/nileslo182/Desktop/Video Game Design/Epic RPG /Assets/Scripts/PlayerMovement.cs" relfile="Assets/Scripts/PlayerMovement.cs" line="46" column="1" />
+      <Breakpoint file="/Users/nileslo182/Documents/GitHub/lniles182.github.io/Unity/Epic RPG /Assets/Scripts/PlayerMovement.cs" relfile="Assets/Scripts/PlayerMovement.cs" line="46" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

@@ -13,8 +13,8 @@ GameObject:
   - component: {fileID: 3642641185589088207}
   - component: {fileID: 4975329807823794430}
   m_Layer: 5
-  m_Name: SnakeHead
-  m_TagString: Untagged
+  m_Name: TargetEnemy
+  m_TagString: targetEnemyUnit
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0

@@ -32,7 +32,7 @@ public class CreateEnemyMenu : MonoBehaviour
             );
 
         //Instantiate the item as a child of the EnemyUnitMenu,
-        //nmae it according to what it is and place it in the correct position
+        //name it according to what it is and place it in the correct position
         GameObject targetEnemyUnit =
             Instantiate(targetEnemyUnitPrefab, enemyUnitsMenu.transform);
 
