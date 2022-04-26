@@ -40,7 +40,7 @@ public class CreateEnemyMenu : MonoBehaviour
 
         targetEnemyUnit.transform.localPosition = nextPosition;
 
-        targetEnemyUnit.transform.localScale = new Vector2(0.7f, 0.7f);
+        targetEnemyUnit.transform.localScale = new Vector2(1.5f, 1.5f);
 
         //when the player clicks the Button, run SelectEnemyTarget for that enemy
         targetEnemyUnit.GetComponent<Button>().onClick.AddListener(

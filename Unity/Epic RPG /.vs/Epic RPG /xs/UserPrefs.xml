@@ -4,15 +4,15 @@
       <File FileName="Assets/Scripts/UnitStats.cs" Line="5" Column="18" />
       <File FileName="Assets/Scripts/Startbattle.cs" />
       <File FileName="Assets/Scripts/KillEnemy.cs" />
-      <File FileName="Assets/Scripts/CreateEnemyMenu.cs" Line="35" Column="15" />
+      <File FileName="Assets/Scripts/CreateEnemyMenu.cs" Line="43" Column="69" />
       <File FileName="Assets/Scripts/ChangeScene.cs" />
-      <File FileName="Assets/Scripts/PlayerMovement.cs" Line="60" Column="1" />
+      <File FileName="Assets/Scripts/PlayerMovement.cs" />
       <File FileName="Assets/Scripts/SpawnEnemy.cs" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7bc212b7-7c35-4216-a08e-ffc319ccc1e4" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="0e2b6ad8-1e9f-425c-8838-304be159be93" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/nileslo182/Documents/GitHub/lniles182.github.io/Unity/Epic RPG /Assets/Scripts/PlayerMovement.cs" relfile="Assets/Scripts/PlayerMovement.cs" line="46" column="1" />

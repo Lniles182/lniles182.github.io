@@ -40,6 +40,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6297104684589218553}
     m_Modifications:
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: itemDimensions.x
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: itemDimensions.y
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: initialPosition.x
+      value: -1000
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: initialPosition.y
+      value: -450
+      objectReference: {fileID: 0}
     - target: {fileID: 2578678746607282994, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
       propertyPath: m_Name
       value: Snake (1)
@@ -102,6 +118,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6297104684589218553}
     m_Modifications:
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: itemDimensions.x
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: itemDimensions.y
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: initialPosition.x
+      value: -800
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: initialPosition.y
+      value: -450
+      objectReference: {fileID: 0}
     - target: {fileID: 2578678746607282994, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
       propertyPath: m_Name
       value: Snake (2)
@@ -164,6 +196,22 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6297104684589218553}
     m_Modifications:
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: itemDimensions.x
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: itemDimensions.y
+      value: 50
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: initialPosition.x
+      value: -600
+      objectReference: {fileID: 0}
+    - target: {fileID: 1444896718622354453, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
+      propertyPath: initialPosition.y
+      value: -450
+      objectReference: {fileID: 0}
     - target: {fileID: 2578678746607282994, guid: 8922d2e3e7a0040e08ed1136e11dac0d, type: 3}
       propertyPath: m_Name
       value: Snake(3)
